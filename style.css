@@ -1,0 +1,187 @@
+#tacho1 {
+    color: green;
+}
+
+#tacho2 {
+    color: red;
+}
+
+#tacho3 {
+    color: rgb(56, 23, 223);
+}
+
+#tacho4 {
+    color: rgb(234, 244, 52);
+}
+
+#tacho5{
+    color: rgb(178, 137, 83);
+}
+
+
+#accordionExample {
+    height: 100%;
+    width: 100%;
+}
+
+#logo {
+    position: relative;
+    width: 40%;
+border-radius:100%;
+   
+ left: 45%;
+   margin-top: -1em;
+    height: 10%;
+    width: 10%;
+  
+}
+#logo2{
+    position: relative;
+    width: 40%;
+border-radius:100%;
+   
+   left:45%;
+   
+    height: 5%;
+    width: 5%;
+}
+#BARRA{
+    background-color: rgb(226, 242, 224);
+    color: rgb(13, 13, 13);
+  
+    height: 50%;
+   
+}
+#m{
+    color: rgb(13, 13, 13);
+   
+}
+#iconos{
+    color: rgb(45, 199, 18); 
+}
+#info{
+    color: rgb(45, 199, 18); 
+    height: 20%;
+    width: 20%;   
+}
+
+#vidrio{
+    position: relative;
+   left:80%;
+    height: 5%;
+    width: 15%;
+}
+#imgreutilizar{
+    position: relative;
+    left:80%;
+    height: 5%;
+    width: 15%;
+ } 
+ 
+#acordion {
+    height: 100%;
+    width: 100%;
+}
+
+
+
+footer
+ {
+    background-color: rgb(226, 242, 224);
+    color: white;
+   
+}
+ h4 {
+    
+   
+    color: rgb(13, 13, 13);
+}
+
+h1 {
+color: rgb(24, 103, 11) ;
+ 
+background-color: rgb(226, 242, 224);
+}
+
+h6 {
+    color: rgb(13, 13, 13);
+}
+
+h5{
+
+    color: rgb(45, 199, 18);  
+    
+}
+#banner{
+    height:500px;
+    width:300px
+}
+.miBoton{
+    color: rgb(45, 199, 18); 
+}
+
+
+#titu{
+ position: relative;
+ left: 20%; 
+    
+}
+#reutilizarpapel {
+    height:100px;
+    width:200px 
+}
+#reutilizarcarton{
+    height:200px;
+    width:200px   
+}
+#reutilizarpastico{
+    height:100px;
+    width:200px  
+}
+#reutilizarvidrio{
+    height:100px;
+    width:200px  
+}
+#imgr{
+    height:100px;
+    width:100px    
+}
+#imgsantafe{
+    height:400px;
+    width:300px  
+}
+#bio{
+    position: relative;
+    left: 20%;
+    height:100%;
+    width:50%   
+}
+#imgactividad{
+    height:200px;
+    width:300px   
+}
+#imgorganico{
+    height: 200px;
+    width: 200px 
+}
+#ir{
+    display: inline-block;
+    padding: 15px;
+    font-size: 15px;
+    cursor: pointer;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    text-decoration: none;
+    margin: 0px 5px 5px;
+    border-radius: 100%;
+}
+
+#latas{
+    height:200px;
+    width:300px 
+}
+#aluminio{
+    height:200px;
+    width: 300px;;  
+}
